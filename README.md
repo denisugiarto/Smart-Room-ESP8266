@@ -15,3 +15,7 @@ The purpose:
 - All data from the sensor is sent to the webserver using esp8266 and shows the condition of the room about temperature, light level, fan status, and lamp status. 
 - After all, the microcontroller in ESP8266-12E will calculate to turn on or turn off the lamp and the fan between the current condition in the room and the threshold was set. 
 - In webserver we can adjust the threshold of temperature and light level.
+
+Software version:
+- XAMPP-win32-1.8.3-2-VC11-installer
+- Arduino-1.8.5
